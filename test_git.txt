@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test2
+=======
+test1
+>>>>>>> 7fc3e1459c3516f0ebcc976f2ef52a5da29079e1
